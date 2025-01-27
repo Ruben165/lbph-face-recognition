@@ -1,1 +1,1 @@
-"# lbph-face-recognition" 
+Face Recognition with Python. Uses Haar-Cascade Classifier for Face Detection and LBPH Algorithm for Face Recognition. The 'images' folder contains the data used for training and validation purposes. Delete the 'fr_model.yml' and 'name_list.npy' files manually everytime you want to train a new model.
